@@ -5,6 +5,7 @@
 
 A Franka Panda holds a cup and moves it along a horizontal ellipse (12 cm × 7 cm) while keeping it upright, so the ingredients mix without spilling. This is a self-contained re-implementation (numpy + matplotlib only) of the mixing module I worked on for the MEAM 5200 *Trail Mix Bar* final project, which was showcased on real Panda arms at Penn's GRASP Lab.
 
+**Interactive 3D replay:** https://wangcy0928.github.io/panda-cup-mixing/
 
 ## Results
 
